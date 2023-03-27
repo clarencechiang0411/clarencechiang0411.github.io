@@ -19,5 +19,8 @@ defaults:
       layout:       post
       
 url: "https://clarencechiang0411.github.io" # the base hostname & protocol for your site
+
 plugins:
+  - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag

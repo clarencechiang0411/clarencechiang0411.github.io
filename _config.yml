@@ -1,12 +1,11 @@
-title:              Blog
+title:              Clarence
 tagline:            on GitHub Pages
 description:        Content-focused template for a blog hosted on GitHub Pages.
-url:                http://YourName.github.io
+url:                http://clarencechiang0411.github.io
 
 author:
-  name:             Your Name
-  url:              https://twitter.com/YourName
-  email:            YourName@gmail.com
+  name:             Clarence Chiang
+  email:            chiang.shihchi@gmail.com
 
 # GitHub Pages / Jekyll configuration
 baseurl:            ''

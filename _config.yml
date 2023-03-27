@@ -17,3 +17,7 @@ defaults:
       path:         ''
     values:
       layout:       post
+      
+url: "https://clarencechiang0411.github.io" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap

@@ -1,11 +1,11 @@
-title:              Clarence
-tagline:            on GitHub Pages
-description:        Content-focused template for a blog hosted on GitHub Pages.
+title:              minuetto
+tagline:            
+description:        notes on learning, reading and life
 url:                http://clarencechiang0411.github.io
 
 author:
   name:             Clarence Chiang
-  email:            chiang.shihchi@gmail.com
+  email:            chiang(dot)shihchi(AT)gmail(dot)com
 
 # GitHub Pages / Jekyll configuration
 baseurl:            ''
